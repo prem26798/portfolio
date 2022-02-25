@@ -1,0 +1,38 @@
+.experience-area{
+    padding: 4rem 1rem;
+    background-image: url(/assets/working.jpg);
+    background-repeat: no-repeat;
+}
+.card{
+    text-align: left;
+    line-height: 36px;
+}
+.card:hover{
+    transform: scale(1.05);
+    transition: 0.3s;
+    box-shadow: 0px 10px 30px rgb(57 56 61 / 21%);
+}
+h2{
+    color: #545755;;
+}
+.card-title,.title-text{
+    font-weight: bold;
+    font-size: 33px;
+    line-height: 33px;
+    font-family: monospace;
+}
+.container .row .text-uppercase{
+    text-decoration: underline;
+}
+
+.duration{
+    color: #6673cb;
+    font-size: 26px;
+    opacity: 0.8;
+}
+
+ul{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
