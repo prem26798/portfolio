@@ -1,0 +1,23 @@
+.education-area .col-lg-3 .card{
+    background-color: #e3bac1;
+    transition: transform .5s;
+    height: 100%;
+}
+
+.education-area .card .cc-education-header{
+    color: #fff;
+    background: linear-gradient(90deg, #4458dc 0%, #854fee 100%);
+    font-weight: 400;
+    height: 100%;
+}
+.education-area .card .cc-education-header:hover{
+    color: #000000;
+    background-color: white;
+}
+.education-area .card .cc-education-header .h4{
+    font-family: cursive;
+}
+ul{
+    font-size: 19px;
+    letter-spacing: 2px;
+}

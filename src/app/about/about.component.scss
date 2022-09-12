@@ -1,0 +1,31 @@
+.container{
+    margin-top: 12rem;
+}
+.img-fluid{
+    max-width: 88%;
+    height: auto;
+}
+.container .row .col-lg-6 h2{
+    display: grid;
+    line-height: 39px;
+    letter-spacing: 10px;
+    font-size: 35px;
+    font-family: unset;
+    font-weight: 500;
+}
+.paragraph,p{
+    line-height: 42px;
+    font-size: 23px;
+    letter-spacing: 2px;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    .container {
+            padding: 1px 17px;
+    }
+    .img-fluid{
+        padding: 32px -2px;
+    }
+  }

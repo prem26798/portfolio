@@ -1,0 +1,21 @@
+.custom-color{
+    background: linear-gradient(90deg, #225c7e 0%, #a03716 100%);
+    color: white;
+}
+.navbar-brand{
+    font-size: 29px;
+    font-weight: 500;
+}
+span{
+    color: #fff;
+}
+button{
+    color: white;
+    background: whitesmoke;
+}
+
+
+.navbar.navbar-dark .breadcrumb .nav-item.active>.nav-link,
+.navbar.navbar-dark .navbar-nav .nav-item.active>.nav-link {
+     background-color: none;
+}
